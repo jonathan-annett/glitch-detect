@@ -1,0 +1,20 @@
+{
+  "name": "glitch-detect",
+  "version": "0.0.1",
+  "description": "returns true if server environment looks like the app is running on glitch",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/jonathan-annett/glitch-detect"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
